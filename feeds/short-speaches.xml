@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Public Domain Audio: Short Speaches</title>
+    <link>noip</link>
+    <description>A collection of public domain audio recordings from various genres and periods.</description>
+    <language>en-us</language>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <copyright>Public Domain Audio</copyright>
+    <itunes:subtitle>Audio Recordings Available in the Public Domain</itunes:subtitle>
+    <itunes:author>Public Domain Audio Team</itunes:author>
+    <itunes:summary>A podcast featuring a diverse collection of audio recordings that are in the public domain.</itunes:summary>
+    <itunes:category text="Miscellaneous"></itunes:category>
+    <itunes:explicit>No</itunes:explicit>
+
+    <item>
+      <title>Christmas Greeting from Space</title>
+      <description>An iconic Christmas message broadcasted from space in the early 20th century, available in the public domain.</description>
+      <guid>http://www.publicdomainaudio.com/christmasgreetingfromspace</guid>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <enclosure url="https://ia803402.us.archive.org/6/items/Greatest_Speeches_of_the_20th_Century/ChristmasGreetingfromSpace.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>30</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Harvard Sample Audio File</title>
+      <description>A public domain audio recording from Harvard.</description>
+      <guid>http://www.publicdomainaudio.com/harvard-sample-audio</guid>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/kagglesdsdata/datasets/829978/1417968/harvard.wav?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240729%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240729T233457Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=071231ff107e61ff687a0e6733a082c0d415330e2d5e83ee4636d3b28a078d3f9458668cfc46147f77b5413101c3c81814b8be7730d837e379f4a3f28a371b5cbef5cd5621baba4c470c48fe05d62cedf1fc43576bd256652eeeb3e6d0c91a5c934430e242a317cae6f3f0fe00f26c6db0d5fce44b2ade94eb27d27dda6de48dd3cd3728b47c1923fd1b94ae64dd7630a354268fa43aa463cd21bdccf5c9365969be329534250791a2be8f6894d18f09cb6714b584a348b1beaf03193188b349c2e49967840ac20a2a5b7e1379c4df64fb70b3b734027f732c6196b7fd8883de5fe4329be0f371f26ec47540f6de76ffae527cfc8c563bd9135ebd096fefcdea" length="12345678" type="audio/wav"/>
+      <itunes:duration>30</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
