@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Collection of Short Speaches</title>
-    <link>noip</link>
-    <description>A collection of public domain audio recording speaches</description>
+    <title>Collection of Short Speeches</title>
+    <link>http://www.publicdomainaudio.com</link>
+    <description>A collection of public domain audio recordings of speeches</description>
     <language>en-us</language>
     <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
@@ -26,14 +26,43 @@
 
     <item>
       <title>A Christmas Greeting from Space</title>
-      <description>An iconic Christmas message broadcasted from space in the early 20th century, available in the public domain.</description>
+      <description>An iconic Christmas message broadcast from space in the early 20th century, available in the public domain.</description>
       <guid>http://www.publicdomainaudio.com/christmasgreetingfromspace</guid>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/space-greeting.mp3" length="12345678" type="audio/mpeg"/>
       <itunes:duration>30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
+    
+    <item>
+      <title>First Radio Address as Prime Minister</title>
+      <description>Historic recording of a Prime Minister's first radio address.</description>
+      <guid>http://www.publicdomainaudio.com/first-radio-address-as-prime-minister</guid>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/first-radio-address-as-prime-minister.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>45</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
 
+    <item>
+      <title>The Kitchen Debate</title>
+      <description>Recording of the famous Kitchen Debate between Nixon and Khrushchev.</description>
+      <guid>http://www.publicdomainaudio.com/the-kitchen-debate</guid>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/the-kitchen-debate.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Moon Landing</title>
+      <description>Historic audio recording of the first moon landing.</description>
+      <guid>http://www.publicdomainaudio.com/the-moon-landing</guid>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/the-moon-landing.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
