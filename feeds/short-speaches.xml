@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Collection of Short Speeches</title>
@@ -20,7 +19,7 @@
       <guid>http://www.publicdomainaudio.com/harvard-sample-audio</guid>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/harvard.wav" length="12345678" type="audio/wav"/>
-      <itunes:duration>30</itunes:duration>
+      <itunes:duration>18</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
@@ -30,7 +29,7 @@
       <guid>http://www.publicdomainaudio.com/christmasgreetingfromspace</guid>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/space-greeting.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>30</itunes:duration>
+      <itunes:duration>36</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
     
@@ -40,7 +39,7 @@
       <guid>http://www.publicdomainaudio.com/first-radio-address-as-prime-minister</guid>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/first-radio-address-as-prime-minister.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>45</itunes:duration>
+      <itunes:duration>457</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
@@ -50,7 +49,7 @@
       <guid>http://www.publicdomainaudio.com/the-kitchen-debate</guid>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/the-kitchen-debate.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>60</itunes:duration>
+      <itunes:duration>444</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
@@ -60,7 +59,7 @@
       <guid>http://www.publicdomainaudio.com/the-moon-landing</guid>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       <enclosure url="https://github.com/ksackvil/public-domain-audio/raw/main/audio/the-moon-landing.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>120</itunes:duration>
+      <itunes:duration>262</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
