@@ -6,7 +6,7 @@
 
     <body>
     <outline text="feeds">
-        <outline type="rss" text="Short Speaches" xmlUrl="https://github.com/ksackvil/public-domain-audio/raw/main/feeds/short-speaches.xml" />
+        <outline type="rss" text="Tech Talk Today AI" xmlUrl="https://github.com/ksackvil/public-domain-audio/raw/main/feeds/tech-talk-today-ai.xml" />
     </outline>
     </body>
 </opml>
